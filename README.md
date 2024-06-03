@@ -1,4 +1,10 @@
-# La Wallet Module Template
+# Recovery module for lawallet
+
+This module offers the capability of recovering access to a lawallet account
+in case of losing acces to the private key of the account. It does so by
+requesting a delegation from the account that want to be recoverable and a
+communication channel (like mail) where it will ask for confirmation in case
+of recovery request.
 
 ## Usage
 

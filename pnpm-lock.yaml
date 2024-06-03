@@ -15,8 +15,8 @@ dependencies:
     specifier: ^2.8.2
     version: 2.8.2(typescript@5.4.5)
   '@prisma/client':
-    specifier: 5.9.1
-    version: 5.9.1(prisma@5.14.0)
+    specifier: 5.14.0
+    version: 5.14.0(prisma@5.14.0)
   debug:
     specifier: ^4.3.4
     version: 4.3.4(supports-color@5.5.0)
@@ -1146,8 +1146,8 @@ packages:
     dev: false
     optional: true
 
-  /@prisma/client@5.9.1(prisma@5.14.0):
-    resolution: {integrity: sha512-caSOnG4kxcSkhqC/2ShV7rEoWwd3XrftokxJqOCMVvia4NYV/TPtJlS9C2os3Igxw/Qyxumj9GBQzcStzECvtQ==}
+  /@prisma/client@5.14.0(prisma@5.14.0):
+    resolution: {integrity: sha512-akMSuyvLKeoU4LeyBAUdThP/uhVP3GuLygFE3MlYzaCb3/J8SfsYBE5PkaFuLuVpLyA6sFoW+16z/aPhNAESqg==}
     engines: {node: '>=16.13'}
     requiresBuild: true
     peerDependencies:

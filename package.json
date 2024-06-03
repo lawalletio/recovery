@@ -1,7 +1,7 @@
 {
-  "name": "module",
+  "name": "recovery",
   "version": "0.1.0",
-  "description": "LaWallet Module",
+  "description": "LaWallet recovery Module",
   "main": "dist/index.mjs",
   "module": "dist/index.mjs",
   "type": "module",
@@ -41,7 +41,7 @@
   "dependencies": {
     "@lawallet/module": "~0.8.3",
     "@nostr-dev-kit/ndk": "^2.8.2",
-    "@prisma/client": "5.9.1",
+    "@prisma/client": "5.14.0",
     "debug": "^4.3.4",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
